@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Leandro 👋
+
+Full Stack Developer. Ruby | JavaScript | HTML & CSS | Ruby on Rails | SQL | React & Redux Available for hire.
+
+- 🔭 I’m currently student at Microverse
+- 🌱 I’m currently learning Software Development
+
+![Leandro github stats](https://github-readme-stats.vercel.app/api?username=Leandro-Barretoo&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Barretoo&layout=compact)](https://github.com/Leandro-Barretoo/github-readme-stats)
 
 <!--
 **Leandro-Barretoo/Leandro-Barretoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
